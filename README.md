@@ -1,11 +1,7 @@
-# threejs-gltf-import
+Final Result: 
+![image](https://github.com/PedrouNunes/Star-Wars-3d-Project/assets/90865544/db9f6d8f-bb7e-4039-95a9-f61055b972ce)
 
-Demo app for importing a .gltf model using Three.js
 
-## Demo
+##Inspired by:
+(https://youtu.be/aOQuuotM-Ww)
 
-https://dgreenheck.github.io/threejs-gltf-import/
-
-## Tutorial
-
-Check out the [step-by-step tutorial](https://youtu.be/aOQuuotM-Ww) on my YouTube channel!
